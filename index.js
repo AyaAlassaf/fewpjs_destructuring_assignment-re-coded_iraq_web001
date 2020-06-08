@@ -31,13 +31,9 @@ const k_muppet = {
   console.log(moo, neigh,baa,oink, chacack)
 
 const [Bessie, ,Dolly,Babe, Little] = 'cow horse sheep pig chicken'.split(' ')
-console.log(Bessie,Dolly,Babe, Little)
+
 
 const [black_and_white, ,black,pink,] = 'cow horse sheep pig chicken'.split(' ')
-console.log(black_and_white,black,pink)
-
-
-
 
 const [red, orange, yellow, green, blue, indigo, violet]=console.log(red, orange, yellow, green, blue, indigo, violet)
 
