@@ -53,7 +53,7 @@ const [, , , , , indg, ]=console.log( indg)
 // Objects
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-const {name, color, song, job, partner} = muppet
+const { name, color, song, job, partner} = muppet
 
 
 
