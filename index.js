@@ -27,7 +27,7 @@ const k_muppet = {
 
 
 
-  const [moo, neigh, baa, oink, chacack] = 'cow horse sheep pig chicken'.split(' ')
+  const [moo, neigh, baa, oink, cluck] = 'cow horse sheep pig chicken'.split(' ')
   console.log(moo, neigh,baa,oink, chacack)
 
 const [Bessie, ,Dolly,Babe, Little] = 'cow horse sheep pig chicken'.split(' ')
