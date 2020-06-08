@@ -35,13 +35,13 @@ const [Bessie, ,Dolly,Babe, Little] = 'cow horse sheep pig chicken'.split(' ')
 
 const [black_and_white, ,black,pink,] = 'cow horse sheep pig chicken'.split(' ')
 
-const [red, orange, yellow, green, blue, indigo, violet]=console.log(red, orange, yellow, green, blue, indigo, violet)
+const [red, orange, yellow, green, blue, indigo, violet]=colors
 
 
-const [r, o, y, g, b, , v]=console.log(r, o, y, g, b,v)
+const [r, o, y, g, b, , v]=colors
 
 
-const [, , , , , indg, ]=console.log( indg)
+const [, , , , , indg, ]=colors
 
 
 
