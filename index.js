@@ -46,7 +46,7 @@ const [, , , , , indg, ]=colors
 
 
 
-const { names, color, song, job, partner} = muppet
+const { name, color, song, job, partner} = muppet
 
 
 
